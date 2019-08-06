@@ -1,2 +1,864 @@
 2019-07-27 17:26:13,286--123----INFO--132
 2019-07-27 17:27:49,644--123----INFO--132
+2019-07-29 17:52:27,877--basehttp----INFO--有端口号拼接地址为：http://api.apiopen.top
+2019-07-29 17:52:54,191--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top9000
+2019-07-29 17:53:40,405--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top:9000
+2019-07-29 18:22:13,352--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top:9000
+2019-07-29 18:22:13,361--basehttp----INFO--最终拼接地址为：http://api.apiopen.top:9000/EmailSearch
+2019-07-29 18:23:59,125--basehttp----INFO--有端口号拼接地址为：http://api.apiopen.top
+2019-07-29 18:23:59,126--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-07-29 18:28:49,206--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:28:49,219--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:30:28,439--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:30:28,440--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:31:06,310--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:31:06,311--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:31:18,579--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-07-29 18:31:37,637--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:31:37,637--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:31:37,750--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-07-29 18:32:00,864--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:32:00,865--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:32:00,977--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-07-29 18:32:27,375--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:32:27,376--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:32:27,493--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-07-29 18:32:39,446--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:32:39,447--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:32:39,549--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-07-29 18:34:56,472--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:34:56,473--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:34:56,619--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-07-29 18:37:45,398--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:37:45,398--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:37:57,521--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-07-29 18:38:16,891--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:38:16,891--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:38:17,023--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-07-29 18:40:33,813--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:40:33,813--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:40:33,949--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-07-29 18:40:57,912--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:40:57,912--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:40:58,017--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-07-29 18:41:20,406--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:41:20,406--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:41:28,548--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-07-29 18:41:28,548--basehttp----INFO--最终拼接地址为：http://www.sogou.com/web
+2019-07-29 18:41:28,670--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-07-31 17:30:24,496--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:35:27,486--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:36:03,308--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:40:34,371--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:40:42,789--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:41:18,152--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:42:12,993--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:48:01,892--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:48:20,241--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 17:48:56,861--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:06:08,286--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:06:08,289--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002078C34FEA0>
+2019-07-31 18:06:08,305--basedb----INFO--数据库执行get_all_data方法查询结果为[(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-07-31 18:06:20,484--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:06:20,487--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002DE8072FEA0>
+2019-07-31 18:06:20,487--basedb----INFO--数据库执行get_all_data方法查询结果为[(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-07-31 18:07:14,069--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:07:14,072--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000209D401FEA0>
+2019-07-31 18:07:14,072--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-07-31 18:08:29,315--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:08:29,318--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000211A058FE30>
+2019-07-31 18:08:29,318--basedb----INFO--数据库执行get_one_data方法查询结果为: 
+ (1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966')
+2019-07-31 18:09:56,706--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:09:56,709--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000017B11EEFEA0>
+2019-07-31 18:09:56,709--basedb----INFO--数据库执行get_one_data方法查询结果为: 
+ (1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966')
+2019-07-31 18:10:23,344--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:10:36,392--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:10:36,395--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001D4837EFEA0>
+2019-07-31 18:10:36,395--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:16:03,046--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:16:03,049--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001F4D94851F0>
+2019-07-31 18:16:43,139--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:16:43,142--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000223679D7180>
+2019-07-31 18:16:43,142--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:18:20,354--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:18:20,358--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000210571C9500>
+2019-07-31 18:18:20,359--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:19:00,341--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:19:00,346--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000027800313500>
+2019-07-31 18:19:00,346--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:20:19,668--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:20:19,670--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000022665BD7180>
+2019-07-31 18:20:19,671--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:25:00,458--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:25:00,461--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001E3CC487180>
+2019-07-31 18:25:00,461--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:29:25,562--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:29:25,568--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000024AA4AB5500>
+2019-07-31 18:29:41,475--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:30:13,242--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:30:13,247--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000198D0F63500>
+2019-07-31 18:30:21,953--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:33:08,105--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:33:08,109--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000020E04677180>
+2019-07-31 18:33:08,109--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:33:08,109--basedb----INFO--数据库已关闭
+2019-07-31 18:41:15,656--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:41:15,659--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000019F94A88180>
+2019-07-31 18:41:15,660--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:41:15,661--basedb----INFO--数据库已关闭
+2019-07-31 18:42:33,112--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:42:33,116--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000255DAB68180>
+2019-07-31 18:42:33,116--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:42:33,116--basedb----INFO--数据库已关闭
+2019-07-31 18:43:23,008--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:43:23,011--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000285FDDA8180>
+2019-07-31 18:43:23,012--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-07-31 18:43:23,012--basedb----INFO--数据库已关闭
+2019-07-31 18:45:33,149--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:56:08,888--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:56:37,503--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-07-31 18:59:50,620--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:11:42,162--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:13:14,351--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:14:32,959--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:14:49,576--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:17:28,965--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:17:52,674--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:24:17,389--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:26:08,886--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:28:28,980--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:31:52,730--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:33:38,169--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:01,092--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:01,194--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:01,194--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:36,530--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:36,598--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:36,598--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:34:58,445--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:43:12,207--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:43:46,439--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:43:46,442--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002C6940A9180>
+2019-08-01 18:43:46,459--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-08-01 18:43:46,459--basedb----INFO--数据库已关闭
+2019-08-01 18:44:18,522--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:44:18,525--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000021596E47180>
+2019-08-01 18:44:18,525--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-08-01 18:44:18,525--basedb----INFO--数据库已关闭
+2019-08-01 18:52:07,087--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:52:07,090--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001C819567180>
+2019-08-01 18:52:07,090--basedb----INFO--数据库执行get_row_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958')]
+2019-08-01 18:52:07,091--basedb----INFO--数据库已关闭
+2019-08-01 18:55:11,534--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:55:11,538--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000238F9337180>
+2019-08-01 18:55:11,539--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-08-01 18:55:11,539--basedb----INFO--数据库已关闭
+2019-08-01 18:55:29,806--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-01 18:55:29,809--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000013C1B070EA0>
+2019-08-01 18:55:29,809--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-08-01 18:55:29,809--basedb----INFO--数据库已关闭
+2019-08-02 08:37:43,283--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:37:43,442--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002252EFA0EA0>
+2019-08-02 08:37:43,459--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-08-02 08:37:43,460--basedb----INFO--数据库已关闭
+2019-08-02 08:41:29,986--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:41:29,991--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002B25D930F10>
+2019-08-02 08:41:29,992--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200', '', '', '2019-07-30 10:26:33.523958'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-08-02 08:41:29,992--basedb----INFO--数据库已关闭
+2019-08-02 08:50:11,462--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:50:57,755--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:50:57,759--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000186AEC40F10>
+2019-08-02 08:50:57,760--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 08:50:57,761--basedb----INFO--数据库已关闭
+2019-08-02 08:53:00,846--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:53:00,851--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001A682030F10>
+2019-08-02 08:53:00,852--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 08:53:00,853--basedb----INFO--数据库已关闭
+2019-08-02 08:56:07,150--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:56:07,153--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000159AE2F1F10>
+2019-08-02 08:56:07,153--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 08:56:07,153--basedb----INFO--数据库已关闭
+2019-08-02 08:58:59,092--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:58:59,095--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000216E2190F10>
+2019-08-02 08:58:59,095--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 08:58:59,096--basedb----INFO--数据库已关闭
+2019-08-02 08:59:54,984--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 08:59:54,987--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000021A32600F10>
+2019-08-02 08:59:54,988--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 08:59:54,988--basedb----INFO--数据库已关闭
+2019-08-02 09:00:50,115--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 09:00:50,118--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000026C03F31F10>
+2019-08-02 09:00:50,118--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 09:00:50,118--basedb----INFO--数据库已关闭
+2019-08-02 09:01:53,876--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 09:01:53,879--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001A10A8E0F10>
+2019-08-02 09:01:53,880--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 09:01:53,880--basedb----INFO--数据库已关闭
+2019-08-02 09:02:45,154--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-02 09:02:45,157--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000024780260F10>
+2019-08-02 09:02:45,157--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-02 09:02:45,158--basedb----INFO--数据库已关闭
+2019-08-03 10:21:20,517--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:21:20,652--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000254DC7E0F10>
+2019-08-03 10:21:20,681--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:21:20,681--basedb----INFO--数据库已关闭
+2019-08-03 10:22:13,430--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:22:13,434--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000020CDA070F10>
+2019-08-03 10:22:13,434--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:22:13,434--basedb----INFO--数据库已关闭
+2019-08-03 10:23:15,513--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:23:15,517--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000203D08B0EA0>
+2019-08-03 10:23:15,517--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:23:15,518--basedb----INFO--数据库已关闭
+2019-08-03 10:23:16,227--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:23:16,229--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000018540300EA0>
+2019-08-03 10:23:16,230--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:23:16,230--basedb----INFO--数据库已关闭
+2019-08-03 10:23:35,483--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:23:35,486--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000015E8A150EA0>
+2019-08-03 10:23:35,487--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:23:35,488--basedb----INFO--数据库已关闭
+2019-08-03 10:24:48,785--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:24:48,789--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000187F6BB0EA0>
+2019-08-03 10:24:48,789--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:24:48,789--basedb----INFO--数据库已关闭
+2019-08-03 10:25:02,848--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:25:02,851--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001CF28200EA0>
+2019-08-03 10:25:02,851--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:25:02,852--basedb----INFO--数据库已关闭
+2019-08-03 10:26:20,113--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:26:20,116--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000025648120EA0>
+2019-08-03 10:26:20,116--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:26:20,116--basedb----INFO--数据库已关闭
+2019-08-03 10:27:23,136--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:27:23,141--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000029E8A050EA0>
+2019-08-03 10:27:23,141--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:27:23,142--basedb----INFO--数据库已关闭
+2019-08-03 10:29:20,891--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:29:20,893--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001C752A10EA0>
+2019-08-03 10:29:20,894--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 10:29:20,894--basedb----INFO--数据库已关闭
+2019-08-03 10:31:17,749--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 10:33:02,085--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:05:04,390--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:47:44,369--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:47:44,374--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 11:47:44,391--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001AF022A0EA0>
+2019-08-03 11:47:44,392--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 11:47:44,394--basedb----INFO--数据库已关闭
+2019-08-03 11:47:44,395--getCase----INFO--获取案例拼为字典为:{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 11:47:44,395--getCase----INFO--获取案例拼为字典为:{'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 11:47:44,396--getCase----INFO--获取案例拼为字典为:{'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 11:49:48,899--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:49:48,902--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 11:49:48,904--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001DA64FFFF80>
+2019-08-03 11:49:48,905--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 11:49:48,908--basedb----INFO--数据库已关闭
+2019-08-03 11:49:48,908--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 11:49:48,908--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 11:49:48,909--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 11:49:48,909--getCase----INFO--获取案例将字典加到列表为: 
+{'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 11:53:16,158--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:53:16,165--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 11:53:16,167--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000026FBFF19420>
+2019-08-03 11:53:16,167--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 11:53:16,171--basedb----INFO--数据库已关闭
+2019-08-03 11:53:47,901--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 11:54:08,095--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 11:54:46,951--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 11:57:05,423--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 11:57:05,427--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 11:57:05,429--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002050C25FF80>
+2019-08-03 11:57:05,429--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 11:57:05,432--basedb----INFO--数据库已关闭
+2019-08-03 11:57:05,432--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 11:57:05,433--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 11:57:05,433--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 11:57:05,433--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 12:04:04,858--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 12:04:04,862--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 12:05:08,330--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 12:05:08,338--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 12:08:17,407--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 12:08:17,410--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 12:11:14,094--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 12:11:14,099--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:27:53,061--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:28:00,054--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:28:14,151--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:28:14,155--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001B827757180>
+2019-08-03 14:28:14,181--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966')]
+2019-08-03 14:28:14,184--basedb----INFO--数据库已关闭
+2019-08-03 14:28:15,933--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:30:26,061--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:30:26,065--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001FD227E7180>
+2019-08-03 14:30:26,065--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966')]
+2019-08-03 14:30:26,068--basedb----INFO--数据库已关闭
+2019-08-03 14:30:27,952--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:32:39,537--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:32:39,543--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:32:39,545--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000267901DE030>
+2019-08-03 14:32:39,546--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200')]
+2019-08-03 14:32:39,550--basedb----INFO--数据库已关闭
+2019-08-03 14:32:39,550--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:32:39,550--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}]
+2019-08-03 14:35:44,458--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:35:44,463--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:36:08,279--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:36:08,282--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:39:05,215--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:39:05,220--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:40:16,069--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:40:16,073--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000131FE108180>
+2019-08-03 14:40:16,074--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200', '', '', '2019-07-30 10:25:07.635966'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200', '', '', '2019-07-30 10:27:34.584347')]
+2019-08-03 14:40:16,077--basedb----INFO--数据库已关闭
+2019-08-03 14:40:18,961--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:41:19,182--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:41:19,185--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:41:59,576--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:41:59,580--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:41:59,581--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000020D277FE030>
+2019-08-03 14:41:59,581--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:41:59,584--basedb----INFO--数据库已关闭
+2019-08-03 14:41:59,584--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:41:59,585--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:41:59,585--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:44:10,398--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:44:10,402--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:44:10,404--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000214458D7180>
+2019-08-03 14:44:10,404--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:44:10,408--basedb----INFO--数据库已关闭
+2019-08-03 14:44:10,408--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:44:10,409--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:44:10,409--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:44:43,030--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:44:43,034--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:44:43,035--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000020ACE377180>
+2019-08-03 14:44:43,035--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:44:43,038--basedb----INFO--数据库已关闭
+2019-08-03 14:44:43,039--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:44:43,039--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:44:43,040--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:44:43,041--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:44:53,453--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:44:53,456--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:44:53,457--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000023A568F7180>
+2019-08-03 14:44:53,457--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:44:53,460--basedb----INFO--数据库已关闭
+2019-08-03 14:44:53,460--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:44:53,460--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:44:53,461--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:44:53,461--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:45:17,449--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:45:17,453--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:45:17,454--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000016F61B57180>
+2019-08-03 14:45:17,454--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:45:17,457--basedb----INFO--数据库已关闭
+2019-08-03 14:45:17,457--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:45:17,457--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 14:45:17,458--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:45:17,458--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:55:01,243--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:55:01,247--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:55:01,249--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000019CB66A7110>
+2019-08-03 14:55:01,249--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:55:01,251--basedb----INFO--数据库已关闭
+2019-08-03 14:55:01,252--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:55:01,252--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 14:55:01,252--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:55:01,252--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 14:58:06,468--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 14:58:06,473--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 14:58:06,475--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000236467C80A0>
+2019-08-03 14:58:06,475--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 14:58:06,478--basedb----INFO--数据库已关闭
+2019-08-03 14:58:06,478--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 14:58:06,479--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 14:58:06,479--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 14:58:06,479--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:16:14,393--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:16:15,600--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-08-03 16:16:15,640--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:16:15,644--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000225EAF25CE0>
+2019-08-03 16:16:15,644--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:16:15,651--basedb----INFO--数据库已关闭
+2019-08-03 16:16:15,651--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:16:15,651--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:16:15,651--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:16:15,651--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:16:15,652--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:16:15,661--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:16:15,665--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:16:15,665--basehttp----INFO--最终拼接地址为：http://www.sogou.com/post
+2019-08-03 16:16:27,741--basehttp----INFO--post请求成功，返回结果为：<Response [404]>
+2019-08-03 16:16:27,867--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:28:30,652--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:28:31,535--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-08-03 16:28:31,616--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:28:31,651--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001BF4E0DBC70>
+2019-08-03 16:28:31,651--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:28:31,666--basedb----INFO--数据库已关闭
+2019-08-03 16:28:31,667--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:28:31,667--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:28:31,667--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:28:31,667--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:28:31,668--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:28:31,701--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:28:31,706--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:28:31,707--basehttp----INFO--最终拼接地址为：http://www.sogou.com/post
+2019-08-03 16:28:43,785--basehttp----INFO--post请求成功，返回结果为：<Response [404]>
+2019-08-03 16:28:43,927--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+
+
+
+
+2019-08-03 16:32:45,657--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:32:46,661--basehttp----INFO--有端口号拼接地址为：http://www.sogou.com
+2019-08-03 16:32:46,749--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:32:46,766--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000020852331D50>
+2019-08-03 16:32:46,766--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:32:46,784--basedb----INFO--数据库已关闭
+2019-08-03 16:32:46,784--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:32:46,785--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:32:46,785--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:32:46,785--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:32:46,785--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:32:46,828--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:32:46,843--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:32:46,843--basehttp----INFO--最终拼接地址为：http://www.sogou.com/post
+2019-08-03 16:32:59,025--basehttp----INFO--post请求成功，返回结果为：<Response [404]>
+2019-08-03 16:32:59,147--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:38:54,216--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:38:55,223--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-03 16:38:55,310--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:38:55,320--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001554ABB1D50>
+2019-08-03 16:38:55,320--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:38:55,338--basedb----INFO--数据库已关闭
+2019-08-03 16:38:55,338--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:38:55,338--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:38:55,339--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:38:55,339--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:38:55,339--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:38:55,383--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:38:55,383--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-03 16:39:08,834--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-03 16:39:08,926--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:39:08,926--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-03 16:39:09,183--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-03 16:39:09,195--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:39:09,195--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-03 16:39:09,443--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-03 16:44:34,785--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:44:35,076--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-03 16:44:35,080--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:44:35,082--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001F019361D50>
+2019-08-03 16:44:35,083--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:44:35,106--basedb----INFO--数据库已关闭
+2019-08-03 16:44:35,106--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:44:35,106--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:44:35,107--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:44:35,107--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:44:35,107--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:44:35,121--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:44:35,123--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-03 16:44:35,673--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-03 16:44:35,673--test_Run----INFO--案例：{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-03 16:44:35,751--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:44:35,752--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-03 16:44:35,983--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-03 16:44:35,984--test_Run----INFO--案例：{'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-03 16:44:35,995--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:44:35,995--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-03 16:44:36,253--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-03 16:44:36,253--test_Run----INFO--案例：{'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+
+
+
+2019-08-03 16:46:13,440--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:46:13,754--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-03 16:46:13,757--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:46:13,758--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000017CF34D1D50>
+2019-08-03 16:46:13,758--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:46:13,761--basedb----INFO--数据库已关闭
+2019-08-03 16:46:13,762--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:46:13,762--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:46:13,762--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:46:13,762--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:46:13,763--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:46:13,774--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:46:13,774--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-03 16:46:14,334--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-03 16:46:14,334--test_Run----INFO--案例：{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-03 16:46:14,419--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:46:14,419--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-03 16:46:14,696--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-03 16:46:14,697--test_Run----INFO--案例：{'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-03 16:46:14,716--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:46:14,716--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-03 16:46:15,023--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-03 16:46:15,025--test_Run----INFO--案例：{'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+2019-08-03 16:52:48,781--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:52:49,145--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-03 16:52:49,151--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:52:49,153--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000019164871D50>
+2019-08-03 16:52:49,153--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:52:49,156--basedb----INFO--数据库已关闭
+2019-08-03 16:52:49,156--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:52:49,156--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:52:49,156--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:52:49,156--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:52:49,157--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:52:49,167--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:52:49,167--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-03 16:53:01,655--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-03 16:53:01,656--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400--200
+2019-08-03 16:53:01,731--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:53:01,731--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-03 16:53:01,999--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-03 16:53:01,999--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400--200
+2019-08-03 16:53:02,010--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:53:02,010--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-03 16:53:02,269--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-03 16:53:02,269--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200--200
+2019-08-03 16:55:19,101--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-03 16:55:19,397--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-03 16:55:19,403--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-03 16:55:19,404--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001896E551D50>
+2019-08-03 16:55:19,404--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-03 16:55:19,408--basedb----INFO--数据库已关闭
+2019-08-03 16:55:19,409--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-03 16:55:19,409--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-03 16:55:19,409--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-03 16:55:19,409--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:55:19,409--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-03 16:55:19,421--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-03 16:55:19,422--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-03 16:55:19,968--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-03 16:55:19,968--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400--200
+2019-08-03 16:55:20,040--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-03 16:55:20,040--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-03 16:55:20,279--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-03 16:55:20,279--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400--200
+2019-08-03 16:55:20,292--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-03 16:55:20,292--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-03 16:55:20,539--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-03 16:55:20,539--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200--200
+2019-08-05 17:12:58,606--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:13:00,140--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:13:00,240--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:13:00,240--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001B2DDD61D50>
+2019-08-05 17:13:00,240--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:13:00,240--basedb----INFO--数据库已关闭
+2019-08-05 17:13:00,240--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:13:00,240--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:13:00,240--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:13:00,240--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:13:00,240--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:13:00,303--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:13:00,303--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:13:24,671--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:13:24,671--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400--200
+2019-08-05 17:13:24,771--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:13:24,771--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:13:25,050--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:13:25,050--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为<class 'int'>--<class 'str'>
+2019-08-05 17:13:25,072--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:13:25,072--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:13:25,351--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:13:25,351--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200--200
+2019-08-05 17:19:07,993--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:19:08,372--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:19:08,372--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:19:08,372--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x00000212AB9FA880>
+2019-08-05 17:19:08,372--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:19:08,372--basedb----INFO--数据库已关闭
+2019-08-05 17:19:08,372--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:19:08,372--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:19:08,372--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:19:08,372--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:19:08,372--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:19:08,441--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:19:08,441--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:19:09,897--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:19:09,897--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-05 17:19:09,997--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:19:09,997--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:19:10,877--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:19:10,877--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-05 17:19:10,899--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:19:10,899--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:19:11,200--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:22:19,932--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:22:20,232--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:22:20,232--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:22:20,232--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002020BDAA880>
+2019-08-05 17:22:20,232--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:22:20,232--basedb----INFO--数据库已关闭
+2019-08-05 17:22:20,232--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:22:20,232--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:22:20,232--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:22:20,232--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:22:20,232--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:22:20,248--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:22:20,248--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:22:20,887--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:22:20,887--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-05 17:22:20,965--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:22:20,965--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:22:21,203--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:22:21,203--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-05 17:22:21,219--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:22:21,219--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:22:21,566--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:22:21,566--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+2019-08-05 17:47:55,685--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:47:55,985--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:47:55,985--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:47:55,985--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000001AA7293A880>
+2019-08-05 17:47:55,985--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:47:55,985--basedb----INFO--数据库已关闭
+2019-08-05 17:47:55,985--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:47:55,985--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:47:55,985--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:47:55,985--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:47:55,985--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:47:56,001--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:47:56,001--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:48:08,957--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:48:08,957--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-05 17:48:09,058--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:48:09,058--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:48:09,327--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:48:09,327--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-05 17:48:09,327--test_Run----ERROR------用户登录-----案例插库返回码错误，具体为：no such column: 用户登录
+2019-08-05 17:48:09,358--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:48:09,358--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:48:09,612--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:48:09,612--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+2019-08-05 17:50:21,848--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:50:22,128--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:50:22,128--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:50:22,128--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x000002A58152A880>
+2019-08-05 17:50:22,128--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:50:22,128--basedb----INFO--数据库已关闭
+2019-08-05 17:50:22,128--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:50:22,128--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:50:22,128--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:50:22,128--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:50:22,128--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:50:22,153--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:50:22,153--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:50:34,757--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:50:34,757--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-05 17:50:34,824--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:50:34,824--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:50:35,071--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:50:35,071--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-05 17:50:35,071--test_Run----ERROR------用户登录-----案例插库返回码错误，具体为：no such column: 用户登录
+2019-08-05 17:50:35,109--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:50:35,109--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:50:35,394--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:50:35,394--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+2019-08-05 17:55:15,282--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3
+2019-08-05 17:55:15,567--basehttp----INFO--无端口号拼接地址为：http://api.apiopen.top
+2019-08-05 17:55:15,567--getCase----INFO--获取字典key值为:['测试编号', '测试用例', 'FrontSQL前置数据命令', '接口路径', '请求方法', '请求体', 'HttpCode', '结果校验']
+2019-08-05 17:55:15,567--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000022DD682A880>
+2019-08-05 17:55:15,567--basedb----INFO--数据库执行get_all_data方法查询结果为: 
+ [(1, '获取用户手机号', '', '/get', 'get', '{ "origin": "223.72.242.14, 223.72.242.14"}', '200'), (2, '用户登录', '', '/post', 'post', '{"name": "hanzhichao","age": 18}', '200'), (3, '测试', '', '/EmailSearch', 'post_with_json', "{'number':'1012002'}", '200')]
+2019-08-05 17:55:15,567--basedb----INFO--数据库已关闭
+2019-08-05 17:55:15,567--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}
+2019-08-05 17:55:15,567--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}
+2019-08-05 17:55:15,567--getCase----INFO--获取案例拼为字典为: 
+ {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}
+2019-08-05 17:55:15,567--getCase----INFO--获取案例将字典加到列表为: 
+[{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:55:15,567--test_Run----INFO--获取案例为：
+ [{'测试编号': 1, '测试用例': '获取用户手机号', 'FrontSQL前置数据命令': '', '接口路径': '/get', '请求方法': 'get', '请求体': '{ "origin": "223.72.242.14, 223.72.242.14"}', 'HttpCode': '200'}, {'测试编号': 2, '测试用例': '用户登录', 'FrontSQL前置数据命令': '', '接口路径': '/post', '请求方法': 'post', '请求体': '{"name": "hanzhichao","age": 18}', 'HttpCode': '200'}, {'测试编号': 3, '测试用例': '测试', 'FrontSQL前置数据命令': '', '接口路径': '/EmailSearch', '请求方法': 'post_with_json', '请求体': "{'number':'1012002'}", 'HttpCode': '200'}]
+2019-08-05 17:55:15,583--test_Run----INFO-------------案例名称为：获取用户手机号--开始执行-------------
+2019-08-05 17:55:15,583--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/get
+2019-08-05 17:55:16,153--basehttp----INFO--get请求成功，返回结果为：<Response [200]>
+2019-08-05 17:55:16,153--test_Run----INFO--案例：获取用户手机号的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/get'},最终返回码为400
+2019-08-05 17:55:16,306--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000022DD6CE2B90>
+2019-08-05 17:55:16,399--test_Run----INFO-------------案例名称为：用户登录--开始执行-------------
+2019-08-05 17:55:16,400--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/post
+2019-08-05 17:55:16,653--basehttp----INFO--post请求成功，返回结果为：<Response [200]>
+2019-08-05 17:55:16,653--test_Run----INFO--案例：用户登录的response.content转为字典{'code': 400, 'message': '404 Not Found', 'result': 'https://api.apiopen.top/post'},最终返回码为400
+2019-08-05 17:55:16,788--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000022DD6CE2B90>
+2019-08-05 17:55:16,822--test_Run----INFO-------------案例名称为：测试--开始执行-------------
+2019-08-05 17:55:16,822--basehttp----INFO--最终拼接地址为：http://api.apiopen.top/EmailSearch
+2019-08-05 17:55:17,069--basehttp----INFO--post_with_json请求成功，返回结果为：<Response [200]>
+2019-08-05 17:55:17,069--test_Run----INFO--案例：测试的response.content转为字典{'code': 200, 'message': '成功!', 'result': '抱歉，暂无查询记录'},最终返回码为200
+2019-08-05 17:55:17,186--basedb----INFO--数据库执行结果为<sqlite3.Cursor object at 0x0000022DD6CE2B90>
+2019-08-05 17:56:25,095--basedb----INFO--sqllite3的地址为D:\python\djangolianxi\自动化测试框架\homework\interface_web\db.sqlite3

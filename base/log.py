@@ -23,6 +23,7 @@ class Log():
         self.log1.setLevel(logging.DEBUG)
         Config = CONFIG()
         logadress = os.path.join(Config.get_config_value('REPORT', 'path'), 'SystemOut.log')
+
         '''
         读取config.ini中的report-path，通过Run.py文件写入path，每天更新一个路径
         '''
@@ -43,3 +44,4 @@ if __name__ == '__main__':
     Getlog = Log('123')
     getlog = Getlog.log()
     getlog.info('132')
+
